@@ -15,6 +15,10 @@ public class SillyNameGenerator {
             System.out.println("What is this person's first name?");
             String firstName = myScanner.nextLine();
 
+            if (firstName.equalsIgnoreCase("quit")) {
+                break;
+            }
+
             System.out.println("What is this person's last name?");
             String lastName = myScanner.nextLine();
 
@@ -28,6 +32,7 @@ public class SillyNameGenerator {
             people.add(newPerson);
             vowelCounts.add(newPerson.calculateNumVowels());
 
+            // I also added this in here -- I felt it would be appropriate
             System.out.println(
                     "Do you want to enter another person's information? If no, type 'quit'");
             response = myScanner.nextLine();
