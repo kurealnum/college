@@ -1,0 +1,72 @@
+University of Mary Washington
+*****
+Locations:
+Double Drive
+Welcome to the University of Mary Washington! You are
+currently at the main entrance for the school.
++++
+James Farmer Hall
+This building is named after Dr. James Farmer and houses
+the Departments of Mathematics, Computer Science, CPR,
+Education and Asian Studies. It was built in 1941 and was
+originally the library. An addition was completed in 1963.
++++
+Campus Walk
+This sidewalk winds through the entire campus leading
+you to all other locations on campus.
++++
+Bell Tower
+The tower houses a clock and is a monumental piece at UMW
+built in 2007. The bell chimes twice a day at noon and 6pm.
++++
+George Washington Hall
+This building has all administrators and human resources.
+It was completed in 1939.
++++
+Combs Hall
+Combs Hall contains the Department of English and Linguistics.
+It was built in 1959.
++++
+*****
+Doors:
+Double Drive
+n
+Bell Tower
++++
+Bell Tower
+s
+Double Drive
++++
+Double Drive
+e
+Combs Hall
++++
+Combs Hall
+w
+Double Drive
++++
+Double Drive
+w
+George Washington Hall
++++
+George Washington Hall
+e
+Double Drive
++++
+Bell Tower
+w
+Campus Walk
++++
+Campus Walk
+e
+Bell Tower
++++
+Campus Walk
+n
+James Farmer Hall
++++
+James Farmer Hall
+s
+Campus Walk
++++
+*****
