@@ -99,6 +99,8 @@ public class Location {
 
     /**
      * Returns the location that the door in the inputted direction leads to, if that doors exists.
+     * If that door does not exist, it returns an initialized Location object with all fields set to
+     * null.
      *
      * @param direction The direction to travel
      * @return The location that the user would "travel" to
